@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.DZ6
+Exec=/usr/bin/ru.auroraos.DZ6
+Name=DZ6
+Name[ru]=ДЗ6
+
+[X-Application]
+Permissions=UserDirs
+OrganizationName=ru.auroraos
+ApplicationName=DZ6
+ExecDBus=/usr/bin/ru.auroraos.DZ6
